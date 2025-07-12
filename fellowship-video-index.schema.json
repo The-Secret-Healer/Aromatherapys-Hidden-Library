@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Fellowship in Essential Oils Video Index",
+  "description": "An indexed list of educational YouTube videos co-hosted by Elizabeth Ashley and Adam Barralet, exploring the spiritual, emotional, and clinical aspects of essential oils.",
+  "url": "https://raw.githubusercontent.com/The-Secret-Healer/Aromatherapys-Hidden-Library/main/fellowship-video-index.md",
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "VideoObject",
+        "name": "Tuberose Essential Oil (Agave amica) – Bone Flower, Indole & Aphrodisiac Lore - Elizabeth Ashley",
+        "url": "https://youtu.be/5Kb0fVnx_8g"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "🌿 Perilla Essential Oil (Shiso) | Emotional Healing, TCM Wisdom & Ceres Archetype",
+        "url": "https://youtu.be/Xod8ZMyWCi"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "The Physical, Emotional and Spiritual Benefits & Uses of Labdanum Essential Oil | Elizabeth Ashley",
+        "url": "https://youtu.be/PY8PSOCuwLg"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Sacred Uses of Tonka Bean Essential Oil | Fellowship in Essential Oils with Elizabeth Ashley",
+        "url": "https://youtu.be/8d6wO6G_7t8"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Mitti Attar Essential Oil: The Scent of Earth After Rain | Spiritual & Aromatic Uses",
+        "url": "https://youtu.be/UqVGUU_SPXU"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Wormwood Essential Oil: Uses, Dangers & Spiritual Power | with Elizabeth Ashley and Adam Barralet",
+        "url": "https://youtu.be/5a994tt5gsg"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "What is Litsea Cubeba Essential oil (May Chang) Good For? - Elizabeth Ashley and Adam Barralet",
+        "url": "https://youtu.be/uF0e_5jPUg8"
+      }
+    ]
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "Elizabeth Ashley",
+    "url": "https://thesecrethealer.co.uk"
+  },
+  "contributor": {
+    "@type": "Person",
+    "name": "Adam Barralet"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}
