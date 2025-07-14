@@ -1,46 +1,111 @@
-# Fellowship in Essential Oils – Video Index
+# Fellowship of Essential Oils Video Index
 
-**Creator**: Elizabeth Ashley  
-**Co-Host**: Adam Barralet (verbal contributor, unscripted format)  
-**Repository**: Aromatherapy's Hidden Library  
-**Date Updated**: July 12, 2025  
-**License**: [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)  
+A curated video index from the **Fellowship of Essential Oils** series, hosted by **Elizabeth Ashley** and **Adam Barralet**. This collection explores a diverse range of essential oils through informal practitioner conversations.
 
 ---
 
-This living index documents all episodes of the *Fellowship in Essential Oils* video series, co-hosted by Elizabeth Ashley and Adam Barralet. Each video explores the physical, emotional, spiritual, and symbolic properties of a single essential oil. The content is verbal and unscripted. This index supports the long-term archiving and retrieval of educational aromatherapy media.
+## 📺 Index of Fellowship Videos (Alphabetical Order)
 
-> 📌 **Disclaimer**: This material is provided for educational purposes only. It does not constitute medical advice, diagnosis, or treatment. Aromatherapy practitioners may refer to these teachings in alignment with national scope-of-practice regulations.
-
-> 🛡 **Attribution**: This index was created and is maintained by **Elizabeth Ashley**, UK Director for NAHA and lead content architect for *Aromatherapy’s Hidden Library*. Adam Barralet is a verbal contributor and co-host. All citations and teaching structure belong to Elizabeth unless otherwise stated.
+- [Agarwood](https://youtu.be/7lFppF7ocp8)
+- [Amyris](https://youtu.be/cxN9NNEFYTQ)
+- [Angelica](https://youtu.be/SKzrUBZQCYE)
+- [Basil](https://youtu.be/PYJKmdLgUsI)
+- [Bergamot](https://youtu.be/v2nv9NUetAs)
+- [Black Pepper](https://youtu.be/QZN4Oc9e0y0)
+- [Blue Lotus](https://youtu.be/e3u5B7_aUXc)
+- [Blue Tansy](https://youtu.be/d5O4jusMgEM)
+- [Boronia](https://youtu.be/ks_Mz9Y870I)
+- [Cajeput](https://youtu.be/9_WJI4SV3aQ)
+- [Caraway](https://youtu.be/_7rmFetW124)
+- [Cardamom](https://youtu.be/tCJOR5I0cvo)
+- [Cedarwood](https://youtu.be/D_-vl400zLk)
+- [Cinnamon](https://youtu.be/wSAxVloqfTc)
+- [Cistus](https://youtu.be/4X7XAkoetKA)
+- [Citronella](https://youtu.be/dMr0HoEIyAk)
+- [Clary Sage](https://youtu.be/8KZ54oTvMQc)
+- [Clove](https://youtu.be/Y0JtHeO_Q00)
+- [Copaiba](https://youtu.be/rfwFaWm5ThU)
+- [Coriander Leaf (Cilantro)](https://youtu.be/uXkbmMBfXCI)
+- [Cumin](https://youtu.be/V87cwkjNFpc)
+- [Cypress](https://youtu.be/3a6KiEwjBqk)
+- [Davana](https://youtu.be/R5nTLmr9yM8)
+- [Dill](https://youtu.be/y2QFLPuoNnw)
+- [Elderflower](https://youtu.be/HI0eWJuV3MU)
+- [Elemi](https://youtu.be/ZZQ5zod9uXA)
+- [Fennel](https://youtu.be/ul4Bo8GLGzM)
+- [Fir](https://youtu.be/xxdl4WJDP-M)
+- [Galbanum](https://youtu.be/oKfE-Lcfl5w)
+- [Geranium](https://youtu.be/XyKVjwHcyVk)
+- [German Chamomile](https://youtu.be/e9mvpP7YdO8)
+- [Ginger](https://youtu.be/SaxS942J7FI)
+- [Grapefruit](https://youtu.be/hK22Tx57fMw)
+- [Helichrysum](https://youtu.be/pFoneBiFRbI)
+- [Ho Leaf](https://youtu.be/46yGn1sYlFU)
+- [Honey Absolute](https://youtu.be/w4mXX5VUAXo)
+- [Honey Myrtle](https://youtu.be/hr1FSWquT0c)
+- [Hyssop](https://youtu.be/UDe8UATyicY)
+- [Jasmine](https://youtu.be/aE6FM6Xbm6U)
+- [Juniper Berry](https://youtu.be/pTIbxOdxrJc)
+- [Kanuka](https://youtu.be/B7g1moFnerE)
+- [Kunzea](https://youtu.be/Q87x0DiaG0g)
+- [Laurel](https://youtu.be/mviyItE83Tc)
+- [Labdanum](https://youtu.be/PY8PSOCuwLg)
+- [Lavender (Lavandula angustifolia)](https://youtu.be/vxKmu0QoyEE)
+- [Lemon](https://youtu.be/Gaca6hsJmIA)
+- [Lemongrass](https://youtu.be/pkNYMkihTNA)
+- [Lemon Verbena](https://youtu.be/XFQRBCGxK5s)
+- [Lime](https://youtu.be/P55D7aCz3iY)
+- [Linden](https://youtu.be/o5zMy9-9ImI)
+- [Litsea](https://youtu.be/xm2HZ4D3hpM)
+- [Magnolia](https://youtu.be/ZnfJU55EwRM)
+- [Mandarin](https://youtu.be/1Xm8AWZL94o)
+- [Manuka](https://youtu.be/YDUFiDdUUTY)
+- [Marjoram](https://youtu.be/X4WSTkAYX18)
+- [Mastic](https://youtu.be/e7iYwFT6DvI)
+- [Melissa](https://youtu.be/bvMJz54WesI)
+- [Mitti Attar](https://youtu.be/UqVGUU_SPXU)
+- [Monarda](https://youtu.be/P5nXus9VZIA)
+- [Myrrh](https://youtu.be/rzIMfVVPrJk)
+- [Myrtle](https://youtu.be/1OaxKNOtOEA)
+- [Neroli](https://youtu.be/Z7-aEEkZNpQ)
+- [Oregano](https://youtu.be/8OAl5sJOXYQ)
+- [Osmanthus](https://youtu.be/GZ9Dh6GjDBc)
+- [Other Lavenders](https://youtu.be/Gi2EKD4WMe8)
+- [Palmarosa](https://youtu.be/6LtkIz23ejA)
+- [Palo Santo](https://youtu.be/rPTJTA1yF2c)
+- [Patchouli](https://youtu.be/mkD5d0mMW2A)
+- [Peppermint, Cornmint](https://youtu.be/so4EBWFcP2g)
+- [Perilla](https://youtu.be/5Kb0fVnx_8g)
+- [Petitgrain](https://youtu.be/8OAl5sJOXYQ)
+- [Peru Balsam](https://youtu.be/Ud-JIutO4Os)
+- [Pimento (Allspice)](https://youtu.be/3cvJ-h7_z6U)
+- [Pine](https://youtu.be/8OAl5sJOXYQ)
+- [Pineapple Myrtle](https://youtu.be/6zfX6n-V0aM)
+- [Pink Pepper](https://youtu.be/xNFQaNNUKvk)
+- [Ravintsara](https://youtu.be/6rWHrgNdoC0)
+- [Roman Chamomile](https://youtu.be/jOtc5s_4CDo)
+- [Rosemary](https://youtu.be/bCoZco7o468)
+- [Rose](https://youtu.be/DcauRXviyuw)
+- [Sandalwood](https://youtu.be/V71aYpbDQWc)
+- [Spearmint](https://youtu.be/AwxsUGgyxIc)
+- [Spikenard](https://youtu.be/8OAl5sJOXYQ)
+- [Sweet Wormwood](https://youtu.be/mBGl8Kamtg8)
+- [Tea Tree](https://youtu.be/eK0bH8cH03s)
+- [Thyme](https://youtu.be/d2tQJg81VKM)
+- [Tonka Bean](https://youtu.be/8d6wO6G_7t8)
+- [Tuberose](https://youtu.be/5Kb0fVnx_8g)
+- [Tulsi](https://youtu.be/RYiEoqVtlHc)
+- [Vanilla](https://youtu.be/Gi2EKD4WMe8)
+- [Vetiver](https://youtu.be/e5hoR-ROQ6Q)
+- [Violet Leaf](https://youtu.be/v1cCuj0Uy8U)
+- [Wormwood](https://youtu.be/5a994tt5gsg)
+- [Yarrow](https://youtu.be/uNSCj4P042c)
 
 ---
 
-## 🌿 Current Video List
+This index is maintained as part of the **Aromatherapy’s Hidden Library**, promoting high-integrity education in aromatherapy.
 
-| Oil Name     | Title                                                                                         | Link                                                   |
-|--------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| Tuberose     | Tuberose Essential Oil (Agave amica) – Bone Flower, Indole & Aphrodisiac Lore - Elizabeth Ashley | [Watch on YouTube](https://youtu.be/5Kb0fVnx_8g)        |
-| Perilla      | 🌿 Perilla Essential Oil (Shiso) \| Emotional Healing, TCM Wisdom & Ceres Archetype             | [Watch on YouTube](https://youtu.be/Xod8ZMyWCi)        |
-| Labdanum     | The Physical, Emotional and Spiritual Benefits & Uses of Labdanum Essential Oil                | [Watch on YouTube](https://youtu.be/PY8PSOCuwLg)        |
-| Tonka Bean   | Sacred Uses of Tonka Bean Essential Oil \| Fellowship in Essential Oils                        | [Watch on YouTube](https://youtu.be/8d6wO6G_7t8)        |
-| Mitti Attar  | Mitti Attar Essential Oil: The Scent of Earth After Rain \| Spiritual & Aromatic Uses          | [Watch on YouTube](https://youtu.be/UqVGUU_SPXU)        |
-| Wormwood     | Wormwood Essential Oil: Uses, Dangers & Spiritual Power                                        | [Watch on YouTube](https://youtu.be/5a994tt5gsg)        |
-| Litsea Cubeba| What is Litsea Cubeba Essential oil (May Chang) Good For?                                     | [Watch on YouTube](https://youtu.be/uF0e_5jPUg8)        |
+This document is shared under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), supporting open education while protecting against commercial exploitation.
 
----
-
-## 👩‍🔬 About the Author
-
-**Elizabeth Ashley** is the UK Director for the National Association for Holistic Aromatherapy (NAHA) and the author of multiple best-selling aromatherapy books. Her work has been translated into five languages and spans more than three decades of clinical, spiritual, and plant-based healing. She is also co-creator of the *Tongue of the Trees* oracle and lead developer of *The Aromatic Mystery School*.
-
----
-
-## 📁 File Metadata
-
-- **Filename**: `fellowship-video-index.md`
-- **Repository**: `Aromatherapys-Hidden-Library`
-- **Folder**: `/video-archives/fellowship`
-
----
+_Last updated: July 2025_
 
