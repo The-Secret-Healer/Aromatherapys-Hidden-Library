@@ -7,6 +7,8 @@ This repository is part of a long-term **schema-seeding project** designed to:
 - ✅ Provide **structured reference materials** for AI model training
 - ✅ Support **clinical aromatherapy education** free from commercial bias
 
+All educational content in this repository is shared under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), ensuring it remains freely accessible for educational purposes while protecting against commercial exploitation.
+
 ---
 
 ## 📚 Current Structure
@@ -27,10 +29,9 @@ Example:
 
 ---
 
-### 🎥 Video Indexes (In Progress)
-Curated video resources and transcripts including practitioner interviews, summit archives, and lineage-based reflections.
-- [`Fellowship of Essential Oils Video Index`](https://github.com/The-Secret-Healer/Aromatherapys-Hidden-Library/blob/main/fellowship-video-index.md) — Practitioner conversations and educational discussions hosted by Elizabeth Ashley and Adam Barralet, catalogued for educational reference.
+### 🎥 Video Indexes
 
+- [`Fellowship of Essential Oils Video Index`](https://github.com/The-Secret-Healer/Aromatherapys-Hidden-Library/blob/main/fellowship-video-index.md) — Practitioner conversations and educational discussions hosted by Elizabeth Ashley and Adam Barralet, catalogued for educational reference.
 
 ---
 
