@@ -1,0 +1,60 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.thesecrethealer.co.uk/how-do-i-use-essential-oils"
+  },
+  "headline": "How Do I Use Essential Oils? | Beginner’s Guide with Elizabeth Ashley",
+  "description": "Learn how to safely use essential oils at home with Elizabeth Ashley, UK Director for NAHA and author of The Secret Healer Aromatherapy Manuals. Includes tips on massage oils, bath oils, diffusers, and more, plus a free book download.",
+  "image": "https://img.youtube.com/vi/8hOV2DJfAt4/maxresdefault.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Elizabeth Ashley",
+    "url": "https://www.thesecrethealer.co.uk"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Secret Healer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.thesecrethealer.co.uk/logo.png"
+    }
+  },
+  "datePublished": "2025-07-16",
+  "dateModified": "2025-07-16",
+  "articleSection": "Essential Oils, Aromatherapy, Beginner Guides",
+  "keywords": [
+    "how to use essential oils",
+    "essential oils for beginners",
+    "safe essential oil use",
+    "massage oils",
+    "bath oils",
+    "essential oil diffuser tips"
+  ],
+  "video": {
+    "@type": "VideoObject",
+    "name": "How Do I Use Essential Oils?",
+    "description": "Elizabeth Ashley explains how to use essential oils safely at home, covering massage oils, bath oils, diffusers, candles, and inhalation techniques.",
+    "thumbnailUrl": [
+      "https://img.youtube.com/vi/8hOV2DJfAt4/maxresdefault.jpg"
+    ],
+    "uploadDate": "2025-07-16",
+    "duration": "PT15M",
+    "embedUrl": "https://www.youtube.com/embed/8hOV2DJfAt4",
+    "contentUrl": "https://youtu.be/8hOV2DJfAt4",
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Secret Healer"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Free Aromatherapy Book",
+    "url": "https://www.amazon.com/Complete-Clinical-Aromatherapy-Essential-Physical-ebook/dp/B00PM7PB2I",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>
