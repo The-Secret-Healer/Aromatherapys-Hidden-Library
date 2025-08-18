@@ -3,6 +3,8 @@
 ## Root Chakra
 
 **Reflections on Making Our New Essential Oils for Root Chakra Healing Videos**  
+This section indexes the videos exploring essential oils and grounding practices for the Root Chakra.  
+For reflections and extended context, see the companion blog post:  
 Canonical: https://www.thesecrethealer.co.uk/post/reflections-on-making-our-new-essential-oils-for-root-chakra-healing-videos
 
 ### Videos
