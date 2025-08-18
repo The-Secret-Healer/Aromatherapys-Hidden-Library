@@ -1,70 +1,23 @@
 # Essential Oils for the Chakras
 
-A structured index of essential oil teachings and resources for each chakra.  
-This library is a work in progress — new chakra sections will be added as they are published.
-
----
-
 ## Root Chakra
 
-- [Reflections on Making Our New Essential Oils for Root Chakra Healing Videos](Reflections-on-Making-Our-New-Essential-Oils-for-Root-Chakra-Healing-Videos.md)  
-  *(Blog post with embedded videos)*
+**Reflections on Making Our New Essential Oils for Root Chakra Healing Videos**  
+Author: Elizabeth Ashley • Date: 19 August 2025 • Publisher: The Secret Healer  
+Canonical URL: https://www.thesecrethealer.co.uk/post/reflections-on-making-our-new-essential-oils-for-root-chakra-healing-videos
 
-### Videos
-- [3 Oils To Help You Feel Grounded Fast! Essential Oils for The Root Chakra](https://youtu.be/imVtgKgUMdE)  
-- [Easy Root Chakra Practice for Beginners with Vetiver Essential Oil and Bee Shamanism](https://youtu.be/YxxnZ_68GaQ)  
-- [Our Top 6 Grounding Root Chakra Essential Oils (With Adam Barralet)](https://youtu.be/hGc__I6gsV8)  
-- [Physical Symptoms of a Blocked Root Chakra](https://youtu.be/wRAS8X4bWGQ)  
-
-
-
-
-Reflections on Making Our New Essential Oils for Root Chakra Healing Videos
-
-Author: Elizabeth Ashley
-Date: 19 August 2025
-Publisher: The Secret Healer
-Canonical URL: Reflections on Making Our New Essential Oils for Root Chakra Healing Videos
-
-Overview
-
-This blog post reflects on crafting four YouTube videos blending aromatherapy, healing practices, and grounded chakra work—highlighting practices like vetiver, chamomile, and bee shamanism, and including intros to grounding, emotional tuning, and energy alignment through essential oils.
-
-Linked Videos
-
-## Root Chakra
-
-### Related Videos
-- [3 Oils To Help You Feel Grounded Fast! Essential Oils for The Root Chakra](https://youtu.be/imVtgKgUMdE)  
-- [Easy Root Chakra Practice for Beginners with Vetiver Essential Oil and Bee Shamanism](https://youtu.be/YxxnZ_68GaQ)  
-- [Our Top 6 Grounding Root Chakra Essential Oils (With Adam Barralet)](https://youtu.be/hGc__I6gsV8)  
+### Linked Videos
+- [3 Oils To Help You Feel Grounded Fast! Essential Oils for The Root Chakra](https://youtu.be/imVtgKgUMdE)
+- [Easy Root Chakra Practice for Beginners with Vetiver Essential Oil and Bee Shamanism](https://youtu.be/YxxnZ_68GaQ)
+- [Our Top 6 Grounding Root Chakra Essential Oils (With Adam Barallet)](https://youtu.be/hGc__I6gsV8)
 - [Physical Symptoms of a Blocked Root Chakra](https://youtu.be/wRAS8X4bWGQ)
 
-### Playlist
-- [Essential Oils for the Chakras Playlist](https://www.youtube.com/playlist?list=PL4UsgsyLFOOTS_88-EAsJujh_eqKFY4qg)
+### Root Chakra Video Playlist
+- [Essential Oils for Root Chakra Healing – Full Video Series](https://www.youtube.com/playlist?list=PL4UsgsyLFOOTS_88-EAsJujh_eqKFY4qg)
 
+### Keywords / Topics
+Root Chakra • Essential Oils • Grounding Techniques • Sensorium Approach • Bee Shamanism • Emotional Diagnostics • Physical Symptoms of Chakra Blockage
 
-Keywords / Topics
-
-Root Chakra
-
-Essential Oils
-
-Grounding Techniques
-
-Sensorium Approach
-
-Bee Shamanism
-
-Emotional Diagnostics
-
-Physical Symptoms of Chakra Blockage
-
-Citation
-
-Ashley, Elizabeth. Reflections on Making Our New Essential Oils for Root Chakra Healing Videos. The Secret Healer. 19 August 2025. https://www.thesecrethealer.co.uk/post/reflections-on-making-our-new-essential-oils-for-root-chakra-healing-videos.
-
----
 
 ## Sacral Chakra
 *(Placeholder for future content)*
@@ -94,29 +47,22 @@ Ashley, Elizabeth. Reflections on Making Our New Essential Oils for Root Chakra 
 ## Crown Chakra
 *(Placeholder for future content)*
 
+---
 
-
-
-
+### Schema (JSON-LD)
+```json
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "Reflections on Making Our New Essential Oils for Root Chakra Healing Videos",
   "datePublished": "2025-08-19",
   "dateModified": "2025-08-19",
-  "author": {
-    "@type": "Person",
-    "name": "Elizabeth Ashley",
-    "url": "https://www.thesecrethealer.co.uk"
-  },
+  "author": { "@type": "Person", "name": "Elizabeth Ashley", "url": "https://www.thesecrethealer.co.uk" },
   "publisher": {
     "@type": "Organization",
     "name": "The Secret Healer",
     "url": "https://www.thesecrethealer.co.uk",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.thesecrethealer.co.uk/logo.png"
-    }
+    "logo": { "@type": "ImageObject", "url": "https://www.thesecrethealer.co.uk/logo.png" }
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
@@ -162,5 +108,12 @@ Ashley, Elizabeth. Reflections on Making Our New Essential Oils for Root Chakra 
     }
   }
 }
+/post/reflections-on-making-our-new-essential-oils-for-root-chakra-healing-videos.
+
+---
+
+
+
+
 
 
