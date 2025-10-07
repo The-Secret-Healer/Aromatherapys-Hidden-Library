@@ -1,0 +1,90 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.thesecrethealer.co.uk/#website",
+      "url": "https://www.thesecrethealer.co.uk/",
+      "name": "The Secret Healer",
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.thesecrethealer.co.uk/post/how-aromatherapy-works-essential-oil-secrets-from-a-professional#webpage",
+      "url": "https://www.thesecrethealer.co.uk/post/how-aromatherapy-works-essential-oil-secrets-from-a-professional",
+      "name": "How Aromatherapy Works: Essential Oil Secrets From A Professional",
+      "inLanguage": "en-GB",
+      "isPartOf": { "@id": "https://www.thesecrethealer.co.uk/#website" },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "@id": "https://img.youtube.com/vi/KJeqLTjI/hqdefault.jpg",
+        "url": "https://img.youtube.com/vi/KJeqLTjI/hqdefault.jpg"
+      },
+      "datePublished": "2025-10-07T12:30:00+00:00",
+      "dateModified": "2025-10-07T12:30:00+00:00",
+      "description": "Aromatherapist Elizabeth Ashley discusses the latest scientific discoveries around how aromatherapy works.",
+      "breadcrumb": { "@id": "https://www.thesecrethealer.co.uk/post/how-aromatherapy-works-essential-oil-secrets-from-a-professional#breadcrumb" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thesecrethealer.co.uk/post/how-aromatherapy-works-essential-oil-secrets-from-a-professional#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.thesecrethealer.co.uk/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "How Aromatherapy Works: Essential Oil Secrets From A Professional",
+          "item": "https://www.thesecrethealer.co.uk/post/how-aromatherapy-works-essential-oil-secrets-from-a-professional"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thesecrethealer.co.uk/post/how-aromatherapy-works-essential-oil-secrets-from-a-professional#article",
+      "mainEntityOfPage": {
+        "@id": "https://www.thesecrethealer.co.uk/post/how-aromatherapy-works-essential-oil-secrets-from-a-professional#webpage"
+      },
+      "url": "https://www.thesecrethealer.co.uk/post/how-aromatherapy-works-essential-oil-secrets-from-a-professional",
+      "headline": "How Aromatherapy Works: Essential Oil Secrets From A Professional",
+      "description": "Aromatherapist Elizabeth Ashley discusses the latest scientific discoveries around how aromatherapy works.",
+      "image": "https://img.youtube.com/vi/KJeqLTjI/hqdefault.jpg",
+      "author": {
+        "@type": "Person",
+        "name": "Elizabeth Ashley"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Secret Healer"
+      },
+      "datePublished": "2025-10-07T12:30:00+00:00",
+      "dateModified": "2025-10-07T12:30:00+00:00",
+      "inLanguage": "en-GB",
+      "isAccessibleForFree": true,
+      "articleSection": [
+        "What is Aromatherapy? Defining the Practice",
+        "Mechanism 1: How Aromatherapy Works Through Smell",
+        "Mechanism 2: The Topical Pathway: Absorption Through the Skin",
+        "The Science Behind the Scent: Why Plants Make These Chemicals",
+        "Magic and Science: A Powerful Combination"
+      ],
+      "video": {
+        "@type": "VideoObject",
+        "@id": "https://www.thesecrethealer.co.uk/post/how-aromatherapy-works-essential-oil-secrets-from-a-professional#video",
+        "name": "How Aromatherapy Works | Essential Oil Secrets From A Professional",
+        "description": "Elizabeth Ashley explains how aromatherapy works through olfaction and topical absorption, weaving current science with practitioner insight.",
+        "thumbnailUrl": "https://img.youtube.com/vi/KJeqLTjI/hqdefault.jpg",
+        "embedUrl": "https://www.youtube.com/embed/KJeqLTjI",
+        "uploadDate": "2025-10-07T12:30:00+00:00",
+        "inLanguage": "en-GB",
+        "isFamilyFriendly": true
+      }
+    }
+  ]
+}
+</script>
