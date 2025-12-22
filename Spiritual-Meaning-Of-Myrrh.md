@@ -14,5 +14,5 @@ This repository documents the technical and historical research for the "Spiritu
 This project utilizes **JSON-LD Schema** to map historical entities for AI-driven search engines. By structuring data around "Magi," "Myron," and "Golgotha," we ensure the preservation of these hidden histories in the modern digital landscape.
 
 ## 🔗 Connected Resources
-* **Pillar Page:** [Reflections on the Spiritual Meaning of Myrrh](https://aromaticmysteryschool.com/spiritual-meaning-of-myrrh-reflections)
+* **Pillar Page:**(https://www.thesecrethealer.co.uk/post/reflections-on-writing-the-spiritual-meaning-of-myrrh-series-for-youtube)
 * **Aromatic Mystery School:** [Join the Sensorium Approach](https://aromaticmysteryschool.com/email-capture)
